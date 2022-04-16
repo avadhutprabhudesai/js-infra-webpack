@@ -1,0 +1,23 @@
+{
+  "name": "js-infra-webpack",
+  "version": "1.0.0",
+  "description": "A poc application to explore webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avadhutprabhudesai/js-infra-webpack.git"
+  },
+  "keywords": [
+    "webpack-poc",
+    "webpack"
+  ],
+  "author": "Avadhut Prabhudesai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avadhutprabhudesai/js-infra-webpack/issues"
+  },
+  "homepage": "https://github.com/avadhutprabhudesai/js-infra-webpack#readme"
+}
