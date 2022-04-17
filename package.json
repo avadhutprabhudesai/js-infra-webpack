@@ -4,7 +4,7 @@
   "description": "A poc application to explore webpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run webpack"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/avadhutprabhudesai/js-infra-webpack/issues"
   },
-  "homepage": "https://github.com/avadhutprabhudesai/js-infra-webpack#readme"
+  "homepage": "https://github.com/avadhutprabhudesai/js-infra-webpack#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  }
 }
